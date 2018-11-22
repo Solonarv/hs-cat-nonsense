@@ -5,7 +5,7 @@ name:                hs-cat-nonsense
 version:             0.1.0.0
 -- synopsis:
 -- description:
-license:             BSD3
+license:             -
 license-file:        LICENSE
 author:              Solonarv
 maintainer:          nstamm@gmx.de
